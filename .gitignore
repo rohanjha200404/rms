@@ -1,0 +1,23 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+.env.example
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+.env.example
